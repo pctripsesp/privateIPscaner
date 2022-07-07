@@ -21,7 +21,7 @@ EXECUTION EXAMPLE
   $ ./privateIPscaner.sh -c C
   
   IP class C selected
-	  [+] Host 192.168.0.106 - ACTIVE
+    [+] Host 192.168.0.106 - ACTIVE
     [+] Host 192.168.3.1 - ACTIVE
     [+] Host 192.168.3.3 - ACTIVE
 ```
