@@ -12,7 +12,9 @@ This tries to scan all private IP range
 
 Note you can find also other private IPs configured on some networks, but those ones have been reserved by IANA
 
-## EXECUTION EXAMPLE
+
+
+EXECUTION EXAMPLE
   privateIPscaner.sh -c C
   
   IP class C selected
